@@ -45,6 +45,7 @@
     "react-native-animatable": "^1.1.0",
     "react-native-blur": "^3.1.1",
     "react-native-gesture-handler": "^1.1.0",
+    "react-native-interactable": "https://github.com/wix/react-native-interactable.git",
     "react-native-reanimated": "^1.0.0-alpha.12",
     "react-native-text-size": "^2.0.4",
     "semver": "^5.5.0",
